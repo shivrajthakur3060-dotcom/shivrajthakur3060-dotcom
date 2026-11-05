@@ -49,7 +49,7 @@
 
 ## 🚀 Featured Project
 
-### [PROJECT_NAME](https://github.com/shivrajthakur3060-dotcom/PROJECT_REPO)
+### [GEN-AI FULL STACK PROJECT](https://github.com/shivrajthakur3060-dotcom/PROJECT_REPO)
 
 It is a full Stack application for job resume building using AI.
 
