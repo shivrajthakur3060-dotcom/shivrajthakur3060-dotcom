@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building my **first project**: [PROJECT_NAME](https://github.com/shivrajthakur3060-dotcom/fullStack-GENAI) – one line about what it does
+- 🔭 Currently building my **first project**: [PROJECT_NAME](https://github.com/shivrajthakur3060-dotcom/GENAIFULLSTACKPROJECT) – one line about what it does
 - 🌱 Learning: **React,MongoDB,LLM APIs**
-- 📢 Building in public: sharing progress, wins and mistakes on [X/Twitter](https://twitter.com/ThakurShivrajS)
+- 📢 Building in public: sharing progress, wins and mistakes on [X/Twitter](https://x.com/ThakurshivrajS)
 - 💬 Ask me about: **MERN stack, building with AI APIs**
 
 ---
@@ -24,7 +24,6 @@
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -43,7 +42,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -61,16 +59,7 @@ It is a full Stack application for job resume building using AI.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivrajthakur3060-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajthakur3060-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-Follow along on [X/Twitter](https://twitter.com/YOUR_HANDLE) 🧵
+Follow along on [X/Twitter](https://x.com/ThakurshivrajS) 🧵
 
 ---
 
