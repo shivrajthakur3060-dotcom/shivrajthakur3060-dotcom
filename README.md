@@ -2,17 +2,16 @@
 <h3 align="center">Full-stack developer in the making | MERN + Gen AI | Building in public 🚀</h3>
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/ThakurshivrajS"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thakur-shivraj-singh-22526a384/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shivrajthakur3060@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building my **first project**: [PROJECT_NAME](https://github.com/shivrajthakur3060-dotcom/GENAIFULLSTACKPROJECT) – one line about what it does
+- 🔭 Currently building my **first project**: [GENAI FullStack Project](https://github.com/shivrajthakur3060-dotcom/GenAIFullStackProject) – It is a Job preparation platform using AI.
 - 🌱 Learning: **React,MongoDB,LLM APIs**
 - 📢 Building in public: sharing progress, wins and mistakes on [X/Twitter](https://x.com/ThakurshivrajS)
 - 💬 Ask me about: **MERN stack, building with AI APIs**
