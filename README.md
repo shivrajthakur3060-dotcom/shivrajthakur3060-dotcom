@@ -15,7 +15,7 @@
 - 🌱 Learning: **React,MongoDB,LLM APIs**
 - 📢 Building in public: sharing progress, wins and mistakes on [X/Twitter](https://x.com/ThakurshivrajS)
 - 💬 Ask me about: **MERN stack, building with AI APIs**
-- 📢 Building in public: sharing progress, wins and mistakes on [Linkdin](https://www.linkedin.com/in/thakur-shivraj-singh-22526a384/)
+- 📢 Building in public: sharing progress, wins and mistakes on [LinkedIn](https://www.linkedin.com/in/thakur-shivraj-singh-22526a384/)
 
 ---
 
